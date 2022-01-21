@@ -102,7 +102,7 @@ form .pied-formulaire button:hover {
 }
 
 
- @media screen and (max-width:680px){
+ @media screen and (max-width:700px){
   body {
     margin: 0px;
     padding: 0px;
