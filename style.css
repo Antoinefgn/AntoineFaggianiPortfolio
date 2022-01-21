@@ -428,9 +428,23 @@ footer [src="image/logo.png"] {
         margin-bottom: 20px;
         font-size: 12px;
     }
+        nav h1{
+        color: rgb(255, 255, 255);
+        font-family: 'Poppins', Bold;
+        font-size: 0px;
+    }
+    nav .onglets a{
+        text-decoration: none;
+        color: #fff;
+        font-family: 'Poppins', Bold;
+        font-size: 12px;
+        margin-right: 35px;
+        border-bottom: 1px solid rgb(167, 162, 162);
+        padding-bottom: 5px;
+    }
     header h1{
         font-family: 'Red Hat Display', Bold;
-        font-size: 40px;
+        font-size: 35px;
         margin-top: -200px;
     }
     header img {
@@ -440,12 +454,47 @@ footer [src="image/logo.png"] {
     }
     header h4{
         
-        font-size: 20px;
+        font-size: 15px;
         text-align: center;
         color: #aaaaaa;
         border-bottom: 0px solid #aaaaaa;
     }
-
+    header button{
+        padding: 10px 20px;
+        background-color: #7000FF;
+        color:#fff;
+        border:none;
+        margin-bottom: 30px;
+        margin-right: 180px;
+        
+        
+        outline:none;
+        font-size: 15px;
+        font-family: arial, sans-serif;
+        cursor: pointer;
+        border-radius: 11px;
+    }
+    a[href="courriel.html"]{
+        width: 150px;
+        height: 37px;
+        font-size: 1.5rem;
+        font-family: arial, sans-serif;
+        position: relative;
+        color: white;
+        margin-left: 180px;
+        margin-top: -69px;
+        font-size: 15px;
+        z-index: 0;
+        border: 1px solid #7000FF;
+        background: black;
+        overflow: hidden;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 11px;
+      }
+    
     .main {
         padding-top: 300px;
     padding-bottom: 50px;
