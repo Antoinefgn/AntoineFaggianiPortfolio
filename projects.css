@@ -157,6 +157,20 @@ footer [src="image/logo.png"] {
         margin-left: 0px;
         margin-bottom: 20px;
     }
+    nav h1{
+        color: rgb(255, 255, 255);
+        font-family: 'Poppins', Bold;
+        font-size: 0px;
+    }
+    nav .onglets a{
+        text-decoration: none;
+        color: #fff;
+        font-family: 'Poppins', Bold;
+        font-size: 12px;
+        margin-right: 35px;
+        border-bottom: 1px solid rgb(167, 162, 162);
+        padding-bottom: 5px;
+    }
     header h1{
         font-family: 'Red Hat Display', Bold;
         font-size: 40px;
