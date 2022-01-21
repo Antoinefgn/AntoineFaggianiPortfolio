@@ -426,6 +426,7 @@ footer [src="image/logo.png"] {
     nav .onglets {
         margin-left: 10px;
         margin-bottom: 20px;
+        font-size: 12px;
     }
     header h1{
         font-family: 'Red Hat Display', Bold;
