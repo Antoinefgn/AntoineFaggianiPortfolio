@@ -150,7 +150,7 @@ div h1{
     inset 0 0 .25vw  0.2vw #7000FF;
 }
 
-@media screen and (max-width:680px){
+@media screen and (max-width:700px){
     nav .onglets {
         margin-left: 0px;
         margin-bottom: 20px;
