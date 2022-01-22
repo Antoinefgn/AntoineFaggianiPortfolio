@@ -455,7 +455,7 @@ footer [src="image/logo.png"] {
     header h1{
         font-family: 'Red Hat Display', Bold;
         font-size: 35px;
-        margin-top:-100px;
+        margin-top:-50px;
         
         
 
@@ -535,7 +535,7 @@ footer [src="image/logo.png"] {
         position: absolute;
         z-index: 100;
         width: 100%;
-        height: 380%;
+        height: 340%;
         margin-top: -800px;
         background: #000000;
         
