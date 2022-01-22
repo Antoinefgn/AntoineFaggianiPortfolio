@@ -66,7 +66,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('image/background1.jpg');
+    
     background-size: cover;
     color: #fff;
     padding: 70px;
@@ -173,7 +173,7 @@ footer [src="image/logo.png"] {
     }
     header h1{
         font-family: 'Red Hat Display', Bold;
-        font-size: 40px;
+        font-size: 35px;
 
     }
     header h4{
@@ -194,7 +194,7 @@ footer [src="image/logo.png"] {
         margin: 70px;
     }
     .main .content .card .right img{
-        height:470px;
+        height:440px;
         width: 100%;
         margin-top: -0px;
     }
