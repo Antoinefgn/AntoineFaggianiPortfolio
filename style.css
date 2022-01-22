@@ -459,7 +459,7 @@ footer [src="image/logo.png"] {
     header img {
         margin-top: -60px;
         padding-right: -80x;
-        height: 85px;
+        height: 0px;
     }
     header h4{
         
@@ -515,7 +515,7 @@ footer [src="image/logo.png"] {
     }
     .main .content .card .right img{
         height:150px;
-        width: 80px;
+        width: 165px;
         margin-top: -0px;
     }
     .main .content .card{
@@ -525,5 +525,14 @@ footer [src="image/logo.png"] {
     footer{
         padding: 30px;
     }
-    
+    .load-container {
+        position: absolute;
+        z-index: 100;
+        width: 100%;
+        height: 510%;
+        margin-top: -1400px;
+        background: #000000;
+        
+        pointer-events: none;
+    }
 }
