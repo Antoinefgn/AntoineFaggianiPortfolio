@@ -455,7 +455,7 @@ footer [src="image/logo.png"] {
     header h1{
         font-family: 'Red Hat Display', Bold;
         font-size: 35px;
-        padding:50px;
+        padding-bottom:50px;
         
 
     }
