@@ -514,7 +514,7 @@ footer [src="image/logo.png"] {
         margin: 40px;
     }
     .main .content .card .right img{
-        height:70px;
+        height:150px;
         width: 80px;
         margin-top: -0px;
     }
@@ -525,14 +525,5 @@ footer [src="image/logo.png"] {
     footer{
         padding: 30px;
     }
-    .load-container {
-        position: absolute;
-        z-index: 100;
-        width: 100%;
-        height: 400%;
-        margin-top: -1400px;
-        background: #000000;
-        background: url('image/background1.jpg');
-        pointer-events: none;
-    }
+    
 }
