@@ -446,7 +446,6 @@ footer [src="image/logo.png"] {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('image/background1.jpg');
     background-size: cover;
     color: #fff;
     padding-top: 200px;
