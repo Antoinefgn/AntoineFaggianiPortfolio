@@ -453,7 +453,7 @@ footer [src="image/logo.png"] {
     header h1{
         font-family: 'Red Hat Display', Bold;
         font-size: 35px;
-        margin-top:-60px;
+        margin-top:100px;
 
     }
     
@@ -516,7 +516,7 @@ footer [src="image/logo.png"] {
     }
     .main .content .card .right img{
         height:200px;
-        width: 300px;
+        width: 320px;
         margin-top: -0px;
     }
     .main .content .card{
@@ -531,7 +531,7 @@ footer [src="image/logo.png"] {
         z-index: 100;
         width: 100%;
         height: 510%;
-        margin-top: -1400px;
+        margin-top: -800px;
         background: #000000;
         
         pointer-events: none;
