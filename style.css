@@ -448,12 +448,14 @@ footer [src="image/logo.png"] {
     align-items: center;
     background-size: cover;
     color: #fff;
+    margin-top:100px;
+    
     
 }
     header h1{
         font-family: 'Red Hat Display', Bold;
         font-size: 35px;
-        margin-top:100px;
+        
 
     }
     
@@ -516,7 +518,7 @@ footer [src="image/logo.png"] {
     }
     .main .content .card .right img{
         height:200px;
-        width: 320px;
+        width: 350px;
         margin-top: -0px;
     }
     .main .content .card{
@@ -530,7 +532,7 @@ footer [src="image/logo.png"] {
         position: absolute;
         z-index: 100;
         width: 100%;
-        height: 510%;
+        height: 810%;
         margin-top: -800px;
         background: #000000;
         
